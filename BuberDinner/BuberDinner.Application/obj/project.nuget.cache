@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c0exOLziAMA058NvwedFI9pici2vpfSuFJU7LwliTUQDxs8bqk9GOvOUS0LVqggnGolY/waNQl/hoplmAZecfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Peter Pazmandi\\Desktop\\Trash\\CSharp\\Tutorial - Clean architecture and DDD\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Peter Pazmandi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
