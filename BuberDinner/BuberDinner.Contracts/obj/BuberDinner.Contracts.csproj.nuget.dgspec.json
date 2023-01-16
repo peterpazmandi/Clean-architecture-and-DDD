@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Peter Pazmandi\\Desktop\\Trash\\CSharp\\Tutorial - Clean architecture and DDD\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {}
+    "C:\\Users\\Peter Pazmandi\\Desktop\\Trash\\CSharp\\Tutorial - Clean architecture and DDD\\buberdinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Peter Pazmandi\\Desktop\\Trash\\CSharp\\Tutorial - Clean architecture and DDD\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+    "C:\\Users\\Peter Pazmandi\\Desktop\\Trash\\CSharp\\Tutorial - Clean architecture and DDD\\buberdinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Peter Pazmandi\\Desktop\\Trash\\CSharp\\Tutorial - Clean architecture and DDD\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Peter Pazmandi\\Desktop\\Trash\\CSharp\\Tutorial - Clean architecture and DDD\\buberdinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "projectName": "BuberDinner.Contracts",
-        "projectPath": "C:\\Users\\Peter Pazmandi\\Desktop\\Trash\\CSharp\\Tutorial - Clean architecture and DDD\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectPath": "C:\\Users\\Peter Pazmandi\\Desktop\\Trash\\CSharp\\Tutorial - Clean architecture and DDD\\buberdinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "packagesPath": "C:\\Users\\Peter Pazmandi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Peter Pazmandi\\Desktop\\Trash\\CSharp\\Tutorial - Clean architecture and DDD\\BuberDinner\\BuberDinner.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Peter Pazmandi\\Desktop\\Trash\\CSharp\\Tutorial - Clean architecture and DDD\\buberdinner\\BuberDinner.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Peter Pazmandi\\AppData\\Roaming\\NuGet\\NuGet.Config",

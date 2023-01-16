@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n+ES8XauIUQXyc9YbMllBTpBbbZTgkzZ6DN2E8uzWFZ5D9EEaY0qV9u5le2p02UtSh2BfMBqcZpSL49dFP1Jlw==",
+  "dgSpecHash": "wajvyCfRKg/yKRzViq1F4bWcOpaSuVla94AfMp95VXB9sAXjsuXzVAPmoJQQEbM/bx0PlIvC+TbG/G5mkrchHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Peter Pazmandi\\Desktop\\Trash\\CSharp\\Tutorial - Clean architecture and DDD\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Peter Pazmandi\\Desktop\\Trash\\CSharp\\Tutorial - Clean architecture and DDD\\buberdinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
